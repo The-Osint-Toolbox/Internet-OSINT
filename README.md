@@ -8,7 +8,7 @@
        <td><a href="https://www.binaryedge.io/">Binary Edge</a></td>
     </tr>
 </table>
-<p>Scan the entire public internet, create real-time threat intelligence streams.</p>
+<p>Scans the entire public internet, create real-time threat intelligence streams.</p>
 <br></br>
 <table>
     <tr>
