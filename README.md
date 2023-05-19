@@ -30,5 +30,27 @@
     </tr>
 </table>
 <p>Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.</p>
+<br></br>
+<table>
+    <tr>
+       <td>Shodan Resources</td>
+    </tr>
+</table>
+<li><a href="https://cheatography.com/sir-slammington/cheat-sheets/shodan/">Cheatography</a></li>
+ <p>Shodan Cheat Sheet.</p>
+<li><a href="https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/">OsintMe</a></li>
+ <p>Ultimate OSINT with Shodan: 100+ great Shodan queries.</p>
+<li><a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/google/Shodan%20Queries.txt">Pentesting Bible</a></li>
+  <p>Shodan Query List.</p>
+<li><a href="https://github.com/lothos612/shodan">Shodan Dorks</a></li> 
+ <p>Basic Shodan Filters.</p>
+<li><a href="https://github.com/humblelad/Shodan-Dorks">Shodan Dorks</a></li>  
+ <p>Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.</p>
+<li><a href="https://github.com/IFLinfosec/shodan-dorks">Shodan Dorks</a></li> 
+ <p>How to search on the shodan.io website.</p>
+<li><a href="https://www.shodan.io/search/filters">Shodan Filters</a></li> 
+ <p>Shodan.io Filter References.</p>
+<li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
+ <p>A collection of interesting, funny, and depressing search queries to plug into shodan.io.</p>
 
 
