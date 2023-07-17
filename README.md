@@ -33,6 +33,13 @@
 <br></br>
 <table>
    <tr>
+      <td><a href="http://www.insecam.org/">Insecam<</a></td>
+   </tr>
+</table>
+<p></p>Live cameras directory.</p>
+<br></br>
+<table>
+   <tr>
       <td><a href="https://netlas.io/">Netlas</a></td>
    </tr>
 </table>
