@@ -33,7 +33,7 @@
 <br></br>
 <table>
    <tr>
-      <td><a href="http://www.insecam.org/">Insecam<</a></td>
+      <td><a href="http://www.insecam.org/">Insecam</a></td>
    </tr>
 </table>
 <p></p>Live cameras directory.</p>
