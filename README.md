@@ -52,6 +52,7 @@
 </table>
  <li><a href="https://github.com/netlas-io/netlas-dorks">A list of dorks for the Netlas.io search engine.</a></li>
  <li><a href="https://netlas.medium.com/netlas-io-attack-surface-discovery-tool-6fbd6b3e9706">Netlas attack surface discovery tool. (Blog 2023)</a></li>
+ <li><a href="https://publication.osintambition.org/how-to-find-online-cameras-with-netlas-io-c68cdf5f327f">Netlas, how to find online cameras. (Blog 2023)</a></li>
 <br></br>
 <table>
   <tr>
