@@ -38,6 +38,14 @@
 </table>
 <p></p>Live cameras directory.</p>
 <br></br>
+<br></br>
+<table>
+   <tr>
+      <td><a href="https://midasearch.org/midasearch-home-page/osint-websites/midasearch-webcam-viewers/">MIDAS Search</a></td>
+   </tr>
+</table>
+<p></p>Live and archived videos from open cameras around the world.</p>
+<br></br>
 <table>
    <tr>
       <td><a href="https://netlas.io/">Netlas</a></td>
