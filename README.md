@@ -36,7 +36,7 @@
       <td><a href="http://www.insecam.org/">Insecam</a></td>
    </tr>
 </table>
-<p></p>Live cameras directory.</p>
+<p>Live cameras directory.</p>
 <br></br>
 <table>
    <tr>
