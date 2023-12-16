@@ -37,7 +37,7 @@
    </tr>
 </table>
 <p>Live cameras directory.</p>
-
+<br></br>
 <table>
    <tr>
       <td><a href="https://midasearch.org/midasearch-home-page/osint-websites/midasearch-webcam-viewers/">MIDAS Search</a></td>
