@@ -90,5 +90,14 @@
  <p>Shodan.io Filter References.</p>
 <li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
  <p>A collection of interesting, funny, and depressing search queries to plug into shodan.io.</p>
+ <br></br>
+ <table>
+   <tr>
+      <td><a href="https://www.webcamgalore.com/">Webcam Galore</a></td>
+   </tr>
+</table>
+<p></p>Live cameras directory.</p>
+<br></br>
+
 
 
