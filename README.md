@@ -33,7 +33,7 @@
 <br></br>
  <table>
    <tr>
-      <td><a href="https://viz.greynoise.io//">Fullhunt</a></td>
+      <td><a href="https://viz.greynoise.io//">Greynoise</a></td>
    </tr>
 </table>
 <p>Asset and vulnerabilities search engine.</p>
