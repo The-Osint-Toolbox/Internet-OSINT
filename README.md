@@ -44,7 +44,7 @@
    </tr>
 </table>
 <p>Live cameras directory.</p>
-<br></br>
+<br>
 <table>
    <tr>
       <td><a href="https://midasearch.org/midasearch-home-page/osint-websites/midasearch-webcam-viewers/">MIDAS Search</a></td>
@@ -104,6 +104,13 @@
  <p>Shodan.io Filter References.</p>
 <li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
  <p>A collection of interesting, funny, and depressing search queries to plug into shodan.io.</p>
+<br>
+<table>
+   <tr>
+      <td><a href="https://webcamaze.engineering.zhaw.ch/watchingtheworld/">Webcamaze</a></td>
+   </tr>
+</table>
+<p></p>Live web-cameras.</p>
 <br></br>
  <table>
    <tr>
