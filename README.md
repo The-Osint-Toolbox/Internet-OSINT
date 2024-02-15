@@ -10,7 +10,7 @@
    </tr>
 </table>
 <p>Cyb Detective, Aggregated Internet OISNT Links.</p> 
-<br/>
+<br></br>
 <table>
     <tr>
        <td><a href="https://www.binaryedge.io/">Binary Edge</a></td>
