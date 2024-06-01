@@ -133,6 +133,13 @@
    </tr>
 </table>
 <p></p>Live cameras directory.</p>
+<br/>
+<table>
+    <tr>
+      <td><a href="https://www.webcamtaxi.com/en/">Webcamtaxi</a></td>
+   </tr>
+</table>
+<p></p>Live web-cameras.</p>
 <br></br>
  <table>
    <tr>
