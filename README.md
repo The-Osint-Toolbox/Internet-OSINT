@@ -2,8 +2,13 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-<p>The Internet is a big place to investigate, however there are resources available to help you fimd whats connected.</p>
-<br></br>
+<p>The Internet is a big place to investigate, however there are resources available to help you find whats connected. There are many resources here that will help with various OSINT techniques. For Ransomware Threat Intelligence, these are located on the Data OSINT page.</p>
+<table>
+   <tr>
+      <td><a href="https://github.com/The-Osint-Toolbox/Data-OSINT/">Data OSINT</a></td>
+   </tr>
+</table>
+<br/>
 <table>
     <tr>
      <td>Cyber Threat Intelligence</td>
@@ -13,6 +18,7 @@
     <li><a href="https://ioc.one/auth/url">IOC.one</a></li>
    </ul>
 <table>
+<br/>
    <tr>
        <td><a href="https://github.com/cipher387/awesome-ip-search-engines/">Cipher 387</a></td>
    </tr>
