@@ -101,6 +101,13 @@
  <li><a href="https://github.com/netlas-io/netlas-cookbook">The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.</a></li>
 <br></br>
 <table>
+   <tr>
+      <td><a href="https://rsecloud.com/">RSE Cloud</a></td>
+   </tr>
+</table>
+<p>Find assets on the internet by searching for organization names,domain names, emails, and more.</p>
+<br></br>
+<table>
   <tr>
      <td><a href="https://socradar.io/labs/ioc-radar/">Socradar</a></td>
   </tr>
