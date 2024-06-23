@@ -1,6 +1,6 @@
 # Internet-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>The Internet is a big place to investigate, however there are resources available to help you find whats connected. There are many resources here that will help with various OSINT techniques. For Ransomware Threat Intelligence websites, these are located on the Data OSINT page.</p>
 <table>
@@ -143,6 +143,15 @@
 <li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
  <p>A collection of interesting, funny, and depressing search queries to plug into shodan.io.</p>
 <br>
+<table>
+   <tr>
+       <td>Search Engines</td>
+   </tr>
+</table>
+  <ul>
+    <li><a href="https://hunter.how/">Hunter</a></li>
+    <li><a href="https://vulmon.com/">Vulmon</a></li>
+  </ul>
 <table>
    <tr>
       <td><a href="https://webcamaze.engineering.zhaw.ch/watchingtheworld/">Webcamaze</a></td>
