@@ -132,12 +132,14 @@
  <p>Ultimate OSINT with Shodan: 100+ great Shodan queries.</p>
 <li><a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/google/Shodan%20Queries.txt">Pentesting Bible</a></li>
   <p>Shodan Query List.</p>
-<li><a href="https://github.com/lothos612/shodan">Shodan Dorks</a></li> 
+<li><a href="https://github.com/lothos612/shodan">Shodan Dorks1</a></li> 
  <p>Basic Shodan Filters.</p>
-<li><a href="https://github.com/humblelad/Shodan-Dorks">Shodan Dorks</a></li>  
+<li><a href="https://github.com/humblelad/Shodan-Dorks">Shodan Dorks2</a></li>  
  <p>Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.</p>
-<li><a href="https://github.com/IFLinfosec/shodan-dorks">Shodan Dorks</a></li> 
+<li><a href="https://github.com/IFLinfosec/shodan-dorks">Shodan Dorks3</a></li> 
  <p>How to search on the shodan.io website.</p>
+<li><a href="https://github.com/nullfuzz-pentest/shodan-dorks">Shodan Dorks4</a></li>
+ <p>This GitHub repository provides a range of search queries, known as "dorks," for Shodan.</p>
 <li><a href="https://www.shodan.io/search/filters">Shodan Filters</a></li> 
  <p>Shodan.io Filter References.</p>
 <li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
