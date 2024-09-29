@@ -130,12 +130,12 @@
  <p>Shodan Cheat Sheet.</p>
 <li><a href="https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks">ExploitXpertz</a></li>
  <p>Google & Shodan Dorks for WebCam</p>
+<li><a href="https://github.com/humblelad/Shodan-Dorks">HumbleLad</a></li>  
+ <p>Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.</p>
 <li><a href="https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/">OsintMe</a></li>
  <p>Ultimate OSINT with Shodan: 100+ great Shodan queries.</p>
 <li><a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/google/Shodan%20Queries.txt">Pentesting Bible</a></li>
   <p>Shodan Query List.</p>
-<li><a href="https://github.com/humblelad/Shodan-Dorks">HumbleLad</a></li>  
- <p>Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.</p>
 <li><a href="https://github.com/IFLinfosec/shodan-dorks">IFLinfosec</a></li> 
  <p>How to search on the shodan.io website.</p>
 <li><a href="https://github.com/lothos612/shodan">Lothos612</a></li> 
