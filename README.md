@@ -158,19 +158,25 @@
     <li><a href="https://www.zoomeye.org/">ZoomEye</a></li>
   </ul>
 <table>
+   <tr>
+      <td><a href="https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0">Web Cam CSE</a></td>
+   </tr>
+</table>
+<p>Web Can CSE.</p>
+<table>
   <br/>
    <tr>
       <td><a href="https://webcamaze.engineering.zhaw.ch/watchingtheworld/">Webcamaze</a></td>
    </tr>
 </table>
-<p></p>Live web-cameras.</p>
+<p>Live web-cameras.</p>
 <br></br>
  <table>
    <tr>
       <td><a href="https://www.webcamgalore.com/">Webcam Galore</a></td>
    </tr>
 </table>
-<p></p>Live cameras directory.</p>
+<p>Live cameras directory.</p>
 <br/>
 <table>
     <tr>
