@@ -70,13 +70,6 @@
 <p>Asset and vulnerabilities search engine.</p>
 <br></br>
 <table>
-   <tr>
-      <td><a href="http://www.insecam.org/">Insecam</a></td>
-   </tr>
-</table>
-<p>Live cameras directory.</p>
-<br>
-<table>
    <tr>
       <td><a href="https://midasearch.org/midasearch-home-page/osint-websites/midasearch-webcam-viewers/">MIDAS Search</a></td>
    </tr>
@@ -84,9 +77,9 @@
 <p></p>Live and archived videos from open cameras around the world.</p>
 <br></br>
 <table>
-   <tr>
-      <td><a href="https://netlas.io/">Netlas</a></td>
-   </tr>
+  <tr>
+    <td><a href="https://netlas.io/">Netlas</a></td>
+  </tr>
 </table>
 <p>Discover, research and monitor any assets available online</p>
 <br></br>
@@ -157,6 +150,20 @@
     <li><a href="https://vulmon.com/">Vulmon</a></li>
     <li><a href="https://www.zoomeye.org/">ZoomEye</a></li>
   </ul>
+<br></br>
+ <table>
+   <tr>
+       <td>Internet WebCams</td>
+   </tr>
+</table>
+<br></br>
+<table>
+   <tr>
+      <td><a href="http://www.insecam.org/">Insecam</a></td>
+   </tr>
+</table>
+<p>Live cameras directory.</p>
+<br>
 <table>
    <tr>
       <td><a href="https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0">Web Cam CSE</a></td>
@@ -184,13 +191,6 @@
    </tr>
 </table>
 <p></p>Live web-cameras.</p>
-<br></br>
- <table>
-   <tr>
-      <td><a href="https://www.zoomeye.org/">ZoomEye</a></td>
-   </tr>
-  </table>
-  <p>Intelligence Search Engine.</p>
 <br></br>
 <table>
    <tr>
