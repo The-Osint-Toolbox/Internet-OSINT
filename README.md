@@ -122,7 +122,7 @@
 <li><a href="https://cheatography.com/sir-slammington/cheat-sheets/shodan/">Cheatography</a></li>
  <p>Shodan Cheat Sheet.</p>
 <li><a href="https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks">ExploitXpertz</a></li>
- <p>Google & Shodan Dorks for WebCam.</p>.
+ <p>Google & Shodan Dorks for WebCam.</p>
 <li><a href="https://github.com/H4ckD4d/Shodan-Dorks-for-Advanced-OSINT">h4ckD4d</a></li>
  <p>Shodan-Dorks-for-Advanced-OSINT.</p>
 <li><a href="https://github.com/humblelad/Shodan-Dorks">HumbleLad</a></li>  
