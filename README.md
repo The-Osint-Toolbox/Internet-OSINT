@@ -70,13 +70,6 @@
 <p>Asset and vulnerabilities search engine.</p>
 <br></br>
 <table>
-   <tr>
-      <td><a href="https://midasearch.org/midasearch-home-page/osint-websites/midasearch-webcam-viewers/">MIDAS Search</a></td>
-   </tr>
-</table>
-<p></p>Live and archived videos from open cameras around the world.</p>
-<br></br>
-<table>
    <tr>
       <td><a href="https://magnify.modat.io/">Modat Magnify</a></td>
    </tr>
