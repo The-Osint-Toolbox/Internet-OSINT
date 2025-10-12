@@ -180,7 +180,6 @@
    </tr>
 </table>
 <p></p>Live and archived videos from open cameras around the world.</p>
-<br></br>
 <br>
 <table>
    <tr>
