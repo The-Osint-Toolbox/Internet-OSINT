@@ -77,6 +77,13 @@
 <p></p>Live and archived videos from open cameras around the world.</p>
 <br></br>
 <table>
+   <tr>
+      <td><a href="https://magnify.modat.io/">Modat Magnify</a></td>
+   </tr>
+</table>
+<p></p>AI-powered cybersecurity platform, catalogs essential attributes of internet-connected devices to create unique digital profiles.</p>
+<br></br>
+<table>
   <tr>
     <td><a href="https://netlas.io/">Netlas</a></td>
   </tr>
