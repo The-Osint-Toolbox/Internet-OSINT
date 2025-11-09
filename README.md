@@ -142,7 +142,7 @@
 <li><a href="https://github.com/dootss/shodan-dorks">Shodan Dorks</a></li>
  <p>An auto-updating list of Shodan dorks with info on the amount of results they return.</p>
 <li><a href="https://github.com/BullsEye0/shodan-eye">Shodan Eye</a></li>
- <p>A tool collects all the information about all devices directly connected to the internet.</p>
+ <p>A tool collects all the information about all devices directly connected to the internet.</p>
 <li><a href="https://github.com/jakejarvis/awesome-shodan-queries">Shodan Queries</a></li> 
  <p>A collection of interesting, funny, and depressing search queries to plug into shodan.io.</p>
 <br>
