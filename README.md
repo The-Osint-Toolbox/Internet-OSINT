@@ -165,6 +165,11 @@
 <br></br>
 <table>
    <tr>
+      <td><a href="https://github.com/spyboy-productions/CamXploit">CamXploit</a></td>
+   </tr>
+</table>
+<table>
+   <tr>
       <td><a href="http://www.insecam.org/">Insecam</a></td>
    </tr>
 </table>
